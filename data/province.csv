@@ -1,0 +1,53 @@
+id,"name",code,community_id
+1,"Araba/Álava",01,16
+2,"Albacete",02,8
+3,"Alicante/Alacant",03,10
+4,"Almería",04,1
+5,"Ávila",05,7
+6,"Badajoz",06,11
+7,"Balears, Illes",07,4
+8,"Barcelona",08,9
+9,"Burgos",09,7
+10,"Cáceres",10,11
+11,"Cádiz",11,1
+12,"Castellón/Castelló",12,10
+13,"Ciudad Real",13,8
+14,"Córdoba",14,1
+15,"Coruña, A",15,12
+16,"Cuenca",16,8
+17,"Girona",17,9
+18,"Granada",18,1
+19,"Guadalajara",19,8
+20,"Gipuzkoa",20,16
+21,"Huelva",21,1
+22,"Huesca",22,2
+23,"Jaén",23,1
+24,"León",24,7
+25,"Lleida",25,9
+26,"Rioja, La",26,17
+27,"Lugo",27,12
+28,"Madrid",28,13
+29,"Málaga",29,1
+30,"Murcia",30,14
+31,"Navarra",31,15
+32,"Ourense",32,12
+33,"Asturias",33,3
+34,"Palencia",34,7
+35,"Palmas, Las",35,5
+36,"Pontevedra",36,12
+37,"Salamanca",37,7
+38,"Santa Cruz de Tenerife",38,5
+39,"Cantabria",39,6
+40,"Segovia",40,7
+41,"Sevilla",41,1
+42,"Soria",42,7
+43,"Tarragona",43,9
+44,"Teruel",44,2
+45,"Toledo",45,8
+46,"Valencia/València",46,10
+47,"Valladolid",47,7
+48,"Bizkaia",48,16
+49,"Zamora",49,7
+50,"Zaragoza",50,2
+51,"Ceuta",51,18
+52,"Melilla",52,19
